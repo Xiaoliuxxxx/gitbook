@@ -1,0 +1,7 @@
+{
+    "title": "前端记录",
+    "author": "liuleixxxx",
+    "plugins": ["chapter-fold",
+        "splitter",
+        "back-to-top-button"]
+}
