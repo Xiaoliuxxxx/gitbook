@@ -1,4 +1,4 @@
-# 目录
+# Summary
 
 * [前言](README.md)
 * [HTML](HTML/README.md)
@@ -8,8 +8,9 @@
     * [第4节：行](HTML/行.md)
 * [CSS](CSS/README.md)
     * [1.CSS选择器](CSS/CSS选择器.md)
+    * [2.SASS入门](CSS/SASS入门.md)
 * [Javascript](JavaScript/README.md)
-    * [第1节：衣](JavaScript/衣.md)
+    * [1.变量和类型检测](JavaScript/变量和类型检测.md)
 * [Vue](Vue/README.md)
     * [1.MVVM实现原理](Vue/MVVM实现原理.md)
 * [React](React/README.md)
@@ -18,4 +19,6 @@
     * [第1节：衣](Angular/衣.md)
 * [部署](部署/README.md)
     * [第1节：衣](部署/衣.md)
+* [其他](其他/README.md)
+    * [1.防抖和节流](其他/防抖和节流.md)
 
