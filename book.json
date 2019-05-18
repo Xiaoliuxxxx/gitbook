@@ -1,6 +1,9 @@
 {
     "title": "前端记录",
     "author": "liuleixxxx",
+    "styles": {
+          "website": "styles/website.css"
+    },
     "plugins": ["chapter-fold",
         "splitter",
         "back-to-top-button"]
