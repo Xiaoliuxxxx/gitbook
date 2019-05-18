@@ -1,4 +1,4 @@
 *.html
 /node_modules
-/styles
+
 /_book

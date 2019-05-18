@@ -2,7 +2,7 @@
     "title": "前端记录",
     "author": "liuleixxxx",
     "styles": {
-          "website": "styles/website.css"
+          "website": "styles/website2.css"
     },
     "plugins": ["chapter-fold",
         "splitter",

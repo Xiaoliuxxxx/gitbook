@@ -1,0 +1,7 @@
+.gitbook-link {
+    display: none !important;
+}
+
+.book.color-theme-2 .book-summary ul.summary li.active > a{
+    pointer-events: none;
+}
